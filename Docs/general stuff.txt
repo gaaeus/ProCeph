@@ -1,0 +1,63 @@
+/*
+https://www.ahrq.gov/professionals/prevention-chronic-care/improve/system/pfhandbook/mod8appbmonicalatte.html
+
+Patient Information
+
+*Name: Monica Latte
+*Home Phone: 444-444-4444
+*Address: 4444 Coffee Ave
+                Chocolate, California
+*Office Phone:
+*Patient ID: 0000-44444
+*Fax:
+*Birth Date: 04/04/1950
+*Status: Active
+*Gender: Female
+*Marital Status: Divorced
+*Contact By: Phone
+*Race: Black
+*Soc Sec No: 444-444-4444
+*MRN: MR-111-1111
+Emp. Status: Full-time
+*Email:	
+*External ID: MR-111-1111
+
+Language: English
+Resp Prov: Carl Savem
+Referred by:	
+Sens Chart: No
+Home LOC:WeServeEveryone
+
+MVC examples:
+https://helloacm.com/model-view-controller-explained-in-c/
+http://www.cplusplus.com/forum/beginner/169892/
+
+
+Patients
+- List
+- Add Patient
+- Personal Data
+- Medical Record
+- Documents
+- Media
+- Ceph Data
+
+Settings
+- General Options
+- Help
+- About
+
+Cephalometry
+- List
+- Create New
+- Edit
+  - Export Analysis
+
+My Data
+- Edit
+  
+Other
+- Backup/Restore
+
+
+*/
